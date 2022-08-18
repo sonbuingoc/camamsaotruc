@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/action_tuner"
+        android:icon="@drawable/ic_baseline_tune_24"
+        android:title="@string/tuner" />
+    <item
+        android:icon="@drawable/ic_baseline_music_note_24"
+        android:id="@+id/action_metronome"
+        android:title="@string/metronome" />
+    <item
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:id="@+id/action_setting"
+        android:title="@string/setting" />
+</menu>
